@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @JiaLing221
 - 👀 I’m interested in developing bugs and debugs.
 - 🌱 I’m currently learning C++ language.
-- 💞️ I’m looking to collaborate on ...
 - 📫 Welcome to reach me through jialingleong0221@gmail.com
 - 😄 Pronouns: Jia
 - ⚡ Fun fact: I'm the one who still learning the basics of programming but...
