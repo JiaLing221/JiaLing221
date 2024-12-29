@@ -11,3 +11,25 @@ Here are some ideas to get you started:
 - 🌱 I’m from Segamat, Johor.
 - 📫 To contact me: jialingleong0221@gmail.com
 - 😄 You can call me: Jia
+
+### Skills
+
+[![My Skills](https://skillicons.dev/icons?i=cpp,github,html,discord)](https://skillicons.dev)
+
+
+### Socials
+
+<div id="badges">
+  <a href="http://linkedin.com/in/%E5%98%89%E7%8E%B2-%E6%A2%81-536aa2340">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://www.instagram.com/jialingg02?igsh=MjV1MHo4bW12aTF2">
+    <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+  </a>
+  <a href="https://www.facebook.com/share/n8zxnfkBqBRvJk72/?mibextid=wwXIfr">
+    <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
+  </a>
+</div>
+
+### Badges
+
