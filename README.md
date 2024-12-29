@@ -1,4 +1,9 @@
-## Hi there 👋
+What's up ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Leong Jia Ling
+=========================================================================================================================================
+
+The Data Engineering Section 02 Student of UTM
+-----------
+
 
 <!--
 **JiaLing221/JiaLing221** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -7,17 +12,19 @@ Here are some ideas to get you started:
 
 -->
 
-- 🔭 I’m currently studying at University Technology Malaysia at Johor Bahru.
-- 🌱 I’m from Segamat, Johor.
+- 🔭 I’m currently studying at University Technology Malaysia at Johor Bahru
+- 💻 I'm taking the course in Bachelor of Computer Science (Data Engineering) with Honours
+- 🌱 I’m from Segamat, Johor
 - 📫 To contact me: jialingleong0221@gmail.com
 - 😄 You can call me: Jia
+- 🌙 My quotes: Work hard. Play Hard. Be kind
 
 ### Skills
 
-[![My Skills](https://skillicons.dev/icons?i=cpp,github,html,discord)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,js,github,html,discord)](https://skillicons.dev)
 
 
-### Socials
+### Social Media
 
 <div id="badges">
   <a href="http://linkedin.com/in/%E5%98%89%E7%8E%B2-%E6%A2%81-536aa2340">
@@ -36,5 +43,4 @@ Here are some ideas to get you started:
 <td width="180%">
 All my works for<a href="https://leongjialing.github.io/leongjialing.github.io/"> SECPH Section 02 </a> will be stored here!
 
-### Badges
 
