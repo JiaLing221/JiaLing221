@@ -44,4 +44,9 @@ Here are some ideas to get you started:
 All my works for<a href="https://leongjialing.github.io/leongjialing.github.io/"> SECPH Section 02 </a> will be stored here!
 
 ###
+
+<img width=400 src='https://github-readme-stats.vercel.app/api?username=JiaLing221&theme=vue-dark&show_icons=true&hide_border=true&count_private=true' />
+
 [![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
+
+<img width=400 src='https://github-readme-stats.vercel.app/api/top-langs/?username=JiaLing221&theme=vue-dark&show_icons=true&hide_border=true&layout=compact' />
