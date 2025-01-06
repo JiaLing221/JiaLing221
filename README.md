@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 ### E-Portfolio
 
 <td width="180%">
-All my works for<a href="https://github.com/JiaLing221/JiaLing221.github.io"> SECPH Section 02 </a> will be stored here!
+All my works for<a href="https://JiaLing221.github.io/"> SECPH Section 02 </a> will be stored here!
 
 ###
 
