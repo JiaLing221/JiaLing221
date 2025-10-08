@@ -22,7 +22,7 @@ I’m a Computer Science student with a focus on Data Engineering. I’m passion
 - **📚Secondary School** - SMJK Seg Hwa <br>
   ‣  *2018 - 2023*
 
-- **📚Pre-U** - Matriculation Malacca College(MMC) <br>
+- **📚Pre-U** - Matriculation Malacca College (MMC) <br>
   ‣  *2023 - 2024*
 
 - **📚Bachelor Degree** - University Technology of Malaysia <br>
