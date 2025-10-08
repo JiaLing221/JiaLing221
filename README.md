@@ -31,16 +31,18 @@ I’m a Computer Science student with a focus on Data Engineering. I’m passion
 <br>
 
 ## AWARDS 🏆
-- Penerima Anugerah Perak Remaja Perdana Rakan Muda 2021
-- Johan Pertandingan Bolang Boling Peringkat Sekolah 2021
-- Penerima Anugerah Setiausaha Cemerlang 2022
+- Penerima Anugerah Perak Remaja Perdana Rakan Muda - *2021*
+- Johan Pertandingan Bolang Boling Peringkat Sekolah - *2021*
+- Penerima Anugerah Setiausaha Cemerlang - *2022*
+- Naib Johan Pertandingan International, Innovation, Invention and Creation Exhibition (IIICE) - *2023*
+- Peringkat Emas Pertandingan STEM Comic Challenge 3.0 - *2023*
 
 <br>
 
 ## LEADERSHIP 🥇
-- Setiausaha Pasukan St.John Ambulance Malaysia (2022)
-- Pengerusi Kelab Seni Budaya (2022)
-- AJK Pusat Sumber Lembaga Pengawas (2020 - 2021)
+- Setiausaha Pasukan St.John Ambulance Malaysia - *2022*
+- Pengerusi Kelab Seni Budaya - *2022*
+- AJK Pusat Sumber Lembaga Pengawas - *2020~2021*
 
 <br> 
 
