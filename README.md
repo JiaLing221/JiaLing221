@@ -43,6 +43,7 @@ I’m a Computer Science student with a focus on Data Engineering. I’m passion
 - Setiausaha Pasukan St.John Ambulance Malaysia - *2022*
 - Pengerusi Kelab Seni Budaya - *2022*
 - AJK Pusat Sumber Lembaga Pengawas - *2020~2021*
+- Ketua Kumbe Physics (Program Kumbe Matriculation) - *2023*
 
 <br> 
 
