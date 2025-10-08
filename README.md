@@ -66,11 +66,12 @@ I’m a Computer Science student with a focus on Data Engineering. I’m passion
 
 ## E-PORTFOLIO 🗞️
 <td width="180%">
-All my works for<a href="https://JiaLing221.github.io/"> SECPH Section 02 </a> will be stored here. (●'◡'●)
+All my works for<a href="https://JiaLing221.github.io/"> SECPH Section 02 </a> will be stored here (●'◡'●)
 
-<br>
+<br><br>
 
-💻 Throughout my studies, I’ve worked on various projects involving C++ programming, object-oriented design, and system analysis — from developing games like Flappy Bird using the WinBGIm graphics library to designing real-world systems such as the Hasta One Online Car Rental System and JustiLink, a legal support platform.
+*What I Learned ?*
+</div>💻 Throughout my studies during Year 1, I’ve worked on various projects involving C++ programming, object-oriented design, and system analysis — from developing games like Flappy Bird using the WinBGIm graphics library to designing real-world systems such as the Hasta One Online Car Rental System and JustiLink, a legal support platform.
 
 <br><br>
 
