@@ -17,16 +17,16 @@ I’m a Computer Science student with a focus on Data Engineering. I’m passion
 
 ## EDUCATION 🎓
 - **📚Primary School** - SJK(C) Jabi <br>
-  ‣  (2012 - 2018)
+  ‣  *2012 - 2018*
 
 - **📚Secondary School** - SMJK Seg Hwa <br>
-  ‣  (2018 - 2023)
+  ‣  *2018 - 2023*
 
 - **📚Pre-U** - Matriculation Malacca College(MMC) <br>
-  ‣  (2023 - 2024)
+  ‣  *2023 - 2024*
 
 - **📚Bachelor Degree** - University Technology of Malaysia <br>
-  ‣  (2024 - now)
+  ‣  *2024 - now*
 
 <br>
 
