@@ -30,12 +30,13 @@ I’m a Computer Science student with a focus on Data Engineering. I’m passion
 
 <br>
 
-## AWARDS 🏆
-- Penerima Anugerah Perak Remaja Perdana Rakan Muda - *2021*
-- Johan Pertandingan Bolang Boling Peringkat Sekolah - *2021*
-- Penerima Anugerah Setiausaha Cemerlang - *2022*
-- Naib Johan Pertandingan International, Innovation, Invention and Creation Exhibition (IIICE) - *2023*
-- Peringkat Emas Pertandingan STEM Comic Challenge 3.0 - *2023*
+## ACHIEVEMENTS & COMPETITIONS 🏆
+- 🚀 Participant – KitaHack 2026 Hackathon (GDG On Campus Malaysia)
+- 💡 Participant – NexG GodamLah 2.0 Smart ID Hackathon (2025)
+- 🥈 Silver Award – International Innovation, Invention & Creation Exhibition (2023)
+- 🥇 Gold Award – STEM Comic Challenge 3.0 (2023)
+- 🌟 Excellent Secretary Award (2022)
+- 🏅 Youth Premier Award (Perak Remaja Perdana) (2021)
 
 <br>
 
