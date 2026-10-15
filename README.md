@@ -31,7 +31,7 @@ I’m a Computer Science student with a focus on Data Engineering. I’m passion
 <br>
 
 ## ACHIEVEMENTS & COMPETITIONS 🏆
-- 🚀 Participant – KitaHack 2026 Hackathon (GDG On Campus Malaysia)
+- 🚀 ![Participant – KitaHack 2026 Hackathon (GDG On Campus Malaysia)](https://github.com/JiaLing221/KitaHack2026)
 - 💡 Participant – NexG GodamLah 2.0 Smart ID Hackathon (2025)
 - 🥈 Silver Award – International Innovation, Invention & Creation Exhibition (2023)
 - 🥇 Gold Award – STEM Comic Challenge 3.0 (2023)
