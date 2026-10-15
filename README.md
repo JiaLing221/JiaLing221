@@ -30,13 +30,25 @@ I’m a Computer Science student with a focus on Data Engineering. I’m passion
 
 <br>
 
-## ACHIEVEMENTS & COMPETITIONS 🏆
-- 🚀 ![Participant – KitaHack 2026 Hackathon (GDG On Campus Malaysia)](https://github.com/JiaLing221/KitaHack2026)
-- 💡 Participant – NexG GodamLah 2.0 Smart ID Hackathon (2025)
-- 🥈 Silver Award – International Innovation, Invention & Creation Exhibition (2023)
-- 🥇 Gold Award – STEM Comic Challenge 3.0 (2023)
-- 🌟 Excellent Secretary Award (2022)
-- 🏅 Youth Premier Award (Perak Remaja Perdana) (2021)
+## HACKATHONS & COMPETITIONS 🏆
+
+### 🚀 Hackathons & Projects
+
+- **[UTMxHackathon’26 – THE POWERPUFF GIRLS](https://github.com/JiaLing221/UTMHackhaton2026-THE_POWERPUFF_GIRLS)**  
+  Developed a **GXBank Youth Financial Resilience App** featuring AI-powered financial insights, automated savings, spending analytics, and gamified saving habits to promote financial literacy among Malaysian youth.
+
+- **[KitaHack 2026 – Chill Guys](https://github.com/JiaLing221/KitaHack2026)**  
+  Built **ParcelKita**, an AI-powered campus parcel management system using Google Gemini, ML Kit, and Firebase to automate parcel recognition, recipient matching, and real-time notifications.
+
+- **[NexG GodamLah 2.0 Smart ID Hackathon (2025) – MyHealthID](https://github.com/JiaLing221/iSquare)**  
+  Developed a digital health identification prototype that enables authorized medical personnel to retrieve critical emergency medical information through ID/QR scanning, with access logging for privacy protection.
+
+### 🥇 Awards & Recognition
+
+- 🥈 **Silver Award** – International Innovation, Invention & Creation Exhibition (2023)
+- 🥇 **Gold Award** – STEM Comic Challenge 3.0 (2023)
+- 🌟 **Excellent Secretary Award** (2022)
+- 🏅 **Youth Premier Award** – Perak Remaja Perdana (2021)
 
 <br>
 
